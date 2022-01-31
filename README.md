@@ -68,3 +68,18 @@ Top 10% rented bikes based on ride count. Helpful to see if frequently rented bi
 Trip duration & ride count relationship. A graph to show that the bikes with the longest trip duration are not the most rented. Somewhat obvious relationship in that a bike that is rented for long durations cannot be rented to another user during that time. May be able use this information to market products to long distance riders (athletic wear/nutrition/hydration).<br>
 ![image](https://github.com/derekhuggens/Lyft_Citi_Bike_Tableau/blob/eb7695636f24c4972bbdefe5f3658368d1a9f26d/README%20IMAGES/trip_duration_ride_count_relationship.png)<br><br>
 
+High-Level Summary of Results for August, 2019.
+* There were 2,344,224 rides taken in August of 2019 within the NYC Citi Bike ride-sharing program.
+* There are 1,900,359 subscribers and 443,865 short-term customers.
+* Peak hours are 5 pm through 6 pm.
+* Starting and ending rental locations upon first glance are busiest around 40°44'13.2"N 73°59'24.4"W (Union Square) and ending locations get busy on the west-side (11th Ave.)
+* Genders:
+  1. Female: 588,431
+  2. Male: 1,530,272
+  3. Unknown: 225,521
+* Avg. trip duration increases with younger and younger ages.
+* Bike repairs should be investigated based on number of rentals vs. trip duration and the repair frequency between those metrics.
+* Longer average trip duration bikes are rented less, most rented bikes have the lowest average trip duration, use this for marketing purposes per user type.
+* Checkout times for users peak at 5 minutes post the 24H 0 mark for males and 6 minutes for females, unknown gender tapers and holds from 4 to 26 minutes post 0 HR mark.
+* The heatmaps for trips by weekday per hour (including by gender) show that the 6-8 AM and 5-7 PM grind is real. The surge in trips show the correlation of the common "9-5" American trope of the common work week. Trip counts in this "9-5" trope taper off on the weekend for both genders, though males show higher trips overall for any day of the week. Filtering by unknown gender for trips by gender (weekday per hour) shows that "unknown" gender users tend to take trips especially often on Saturday and often on Sunday.
+* User trips by gender by weekday show the trend that subscribers for both male and females take bike trips more often than their short-term customer countparts. Filtering by "unknown" gender shows the interesting opposite trend that short-term customers take more weekday trips than their subscriber counterparts. This could mean that those that don't subscribe don't care to enter their gender as male or female.
