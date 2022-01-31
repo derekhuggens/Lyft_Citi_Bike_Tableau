@@ -6,9 +6,9 @@ Creating worksheets, Dashboards, and Stories with Tableau
 * Using Tableau Public Server, available data on (url) for August, 2019 was downloaded and imported for analysis. Learning objectives about Tableau's program design, such as importing various filetypes, using and changing column datatypes, measures, dimensions, continuous vs. discrete values, filters, pages, marks, dashboard, and stories were covered.
 
 ### Links to my Tableau Public Profile and the NYC Citi Bike Tableau Presentation:
-[link to profile](https://public.tableau.com/app/profile/derek.huggens)
+[Link to Tableau Public Profile](https://public.tableau.com/app/profile/derek.huggens)
 
-[link to citi bike project](https://public.tableau.com/app/profile/derek.huggens/viz/CitiBikeDashboardStory/NYCCitiBikeStory)
+[Link to Citi Bike Project](https://public.tableau.com/app/profile/derek.huggens/viz/CitiBikeDashboardStory/NYCCitiBikeStory)
 
 ## Results
 
