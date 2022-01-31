@@ -13,7 +13,7 @@ Creating worksheets, Dashboards, and Stories with Tableau
 ## Results
 
 Number of Rides
-[image](https://github.com/derekhuggens/Lyft_Citi_Bike_Tableau/blob/eb7695636f24c4972bbdefe5f3658368d1a9f26d/README%20IMAGES/number_of_rides.png)
+[image](README IMAGES/number_of_rides.png)
 * The number of rides given in the Citi Bike NYC August, 2019 dataset.
 Customer Type
 [image](https://github.com/derekhuggens/Lyft_Citi_Bike_Tableau/blob/eb7695636f24c4972bbdefe5f3658368d1a9f26d/README%20IMAGES/customer_type.png)
